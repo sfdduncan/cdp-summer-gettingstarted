@@ -13,6 +13,7 @@ getWeatherData = (zip) => {
     })
   }
 
+  
 const getZipCode = (e) => {
   e.preventDefault();
   let ZIP_CODE = input.value;
